@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="5" passed="5" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2026-04-11T19:24:41 IST" name="Default suite" finished-at="2026-04-11T19:24:52 IST" duration-ms="11232">
+    <groups>
+    </groups>
+    <test started-at="2026-04-11T19:24:41 IST" name="Default test" finished-at="2026-04-11T19:24:52 IST" duration-ms="11232">
+      <class name="tests.SelectMenuTest">
+        <test-method is-config="true" signature="launchurl()[pri:0, instance:tests.SelectMenuTest@6a78afa0]" started-at="2026-04-11T19:24:41 IST" name="launchurl" finished-at="2026-04-11T19:24:46 IST" duration-ms="5544" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchurl -->
+        <test-method signature="clickonclose()[pri:1, instance:tests.SelectMenuTest@6a78afa0]" started-at="2026-04-11T19:24:46 IST" name="clickonclose" finished-at="2026-04-11T19:24:47 IST" duration-ms="358" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickonclose -->
+        <test-method is-config="true" signature="resultAnalysis(org.testng.ITestResult)[pri:0, instance:tests.SelectMenuTest@6a78afa0]" started-at="2026-04-11T19:24:47 IST" name="resultAnalysis" finished-at="2026-04-11T19:24:47 IST" duration-ms="537" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=clickonclose status=SUCCESS method=SelectMenuTest.clickonclose()[pri:1, instance:tests.SelectMenuTest@6a78afa0] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- resultAnalysis -->
+        <test-method signature="clickonpractice()[pri:2, instance:tests.SelectMenuTest@6a78afa0]" started-at="2026-04-11T19:24:47 IST" name="clickonpractice" finished-at="2026-04-11T19:24:50 IST" duration-ms="2442" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickonpractice -->
+        <test-method is-config="true" signature="resultAnalysis(org.testng.ITestResult)[pri:0, instance:tests.SelectMenuTest@6a78afa0]" started-at="2026-04-11T19:24:50 IST" name="resultAnalysis" finished-at="2026-04-11T19:24:50 IST" duration-ms="212" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=clickonpractice status=SUCCESS method=SelectMenuTest.clickonpractice()[pri:2, instance:tests.SelectMenuTest@6a78afa0] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- resultAnalysis -->
+        <test-method signature="clickonwidget()[pri:3, instance:tests.SelectMenuTest@6a78afa0]" started-at="2026-04-11T19:24:50 IST" name="clickonwidget" finished-at="2026-04-11T19:24:50 IST" duration-ms="260" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickonwidget -->
+        <test-method is-config="true" signature="resultAnalysis(org.testng.ITestResult)[pri:0, instance:tests.SelectMenuTest@6a78afa0]" started-at="2026-04-11T19:24:50 IST" name="resultAnalysis" finished-at="2026-04-11T19:24:50 IST" duration-ms="227" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=clickonwidget status=SUCCESS method=SelectMenuTest.clickonwidget()[pri:3, instance:tests.SelectMenuTest@6a78afa0] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- resultAnalysis -->
+        <test-method signature="clickonselectmenu()[pri:4, instance:tests.SelectMenuTest@6a78afa0]" started-at="2026-04-11T19:24:50 IST" name="clickonselectmenu" finished-at="2026-04-11T19:24:51 IST" duration-ms="290" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickonselectmenu -->
+        <test-method is-config="true" signature="resultAnalysis(org.testng.ITestResult)[pri:0, instance:tests.SelectMenuTest@6a78afa0]" started-at="2026-04-11T19:24:51 IST" name="resultAnalysis" finished-at="2026-04-11T19:24:51 IST" duration-ms="430" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=clickonselectmenu status=SUCCESS method=SelectMenuTest.clickonselectmenu()[pri:4, instance:tests.SelectMenuTest@6a78afa0] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- resultAnalysis -->
+        <test-method signature="clickondropdown()[pri:5, instance:tests.SelectMenuTest@6a78afa0]" started-at="2026-04-11T19:24:51 IST" name="clickondropdown" finished-at="2026-04-11T19:24:52 IST" duration-ms="583" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickondropdown -->
+        <test-method is-config="true" signature="resultAnalysis(org.testng.ITestResult)[pri:0, instance:tests.SelectMenuTest@6a78afa0]" started-at="2026-04-11T19:24:52 IST" name="resultAnalysis" finished-at="2026-04-11T19:24:52 IST" duration-ms="171" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=clickondropdown status=SUCCESS method=SelectMenuTest.clickondropdown()[pri:5, instance:tests.SelectMenuTest@6a78afa0] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- resultAnalysis -->
+      </class> <!-- tests.SelectMenuTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

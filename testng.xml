@@ -1,0 +1,34 @@
+
+<suite name="Suite">
+<test name="Test" enabled="false">
+   <classes>
+  <class name="tests.LoginTest"/>
+   </classes>
+  </test> <!-- Test -->
+  
+  
+  <test name="Test" enabled="false">
+   <classes>
+  <class name="tests.Textboxtest"/>
+   </classes>
+  </test> <!-- Test -->
+  
+  <test name="Test" enabled="false">
+   <classes>
+  <class name="tests.CheckBoxTest"/>
+   </classes>
+  </test> <!-- Test -->
+  
+  
+   <test name="Test" enabled="true">
+   <classes>
+  <class name="tests.WebTableTest"/>
+   </classes>
+  </test> <!-- Test -->
+  
+  
+  
+  
+</suite> <!-- Suite -->
+
+
